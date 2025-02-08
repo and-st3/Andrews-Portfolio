@@ -1,2 +1,2 @@
-# Andrews-Porfolio
+# Andrews-Portfolio
 Development of personal project portfolio.
